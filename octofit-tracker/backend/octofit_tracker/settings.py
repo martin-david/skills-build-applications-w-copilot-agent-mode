@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-cl#!c25(v3vnmoj5wz3=%w(&a^79(^7mgpe4)9ar-o(99)8#hb
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "verbose-funicular-g46g5v9wg5xfpg47-8000.app.github.dev"]
 
 
 # Application definition
